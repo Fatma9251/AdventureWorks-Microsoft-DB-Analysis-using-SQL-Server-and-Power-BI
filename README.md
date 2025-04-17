@@ -5,7 +5,7 @@
 This project explores sales data from the AdventureWorks database using Power BI. Data was imported from SQL Server using import mode, and all cleaning, modeling, and analysis were performed within Power BI to create interactive and insightful dashboards.
 
 # Tools & Technologies
-SQL Server (Import Mode) – used as the data source
+* SQL Server (Import Mode) – used as the data source
 
 * Power BI – for all data modeling, transformation, and dashboard building
 
@@ -34,4 +34,4 @@ SQL Server (Import Mode) – used as the data source
 
 * Perform all analysis within Power BI using its built-in tools
 
-Showcase data storytelling and visualization skills
+* Showcase data storytelling and visualization skills
