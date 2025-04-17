@@ -1,0 +1,32 @@
+Measures  (Cards)
+- what's the total revenue?
+- what's the total profit?
+- How many customers?
+- How many loyal customers? (based on: No. of visits)
+- How many late orders were made? (ShipDate exceeded DueDate)
+- What's the average Order Value?
+- How many currencies do my store accept?
+
+-------------------------------------------------------------------
+Visuals
+- What's the Currency Distribution (what are the top currencies used)
+---Customers Info----
+- What's the average commute distance 
+  and How far the customers are varied?
+- what's the customer distribution by location (territory and state)?
+- What's the Gender Distribution between customers?
+- what's the average customer yearlyIncome?
+- what's the title distribution?
+- What's the education background distribution?
+---Product Info---
+- What's the distribution of bikes [Mounting, Road, Sport, Touring] bikes?
+- what's the average bike price, when product line is [M, R, S, T]?
+- What's the average product price in general [Bike components and accessories]
+- what's the product class [H, M, L] [High-end, Medium, Low-end]? (blank is for non-bike products)
+- Dealer price Vs ListPrice
+- Avg. DaysToManufacture for products?
+
+6, 19, 29, 39, 98, 100
+ 
+
+
